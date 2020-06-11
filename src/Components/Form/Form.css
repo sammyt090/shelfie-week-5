@@ -1,0 +1,14 @@
+
+
+.input-box{
+    background-color: #3AD886;
+    width: 51%;
+    display: flex;
+    position: relative;
+    height: 80vh;
+    align-self: center;
+    justify-content: center;
+    top: 200px;
+
+    margin-bottom: 50px;
+}
